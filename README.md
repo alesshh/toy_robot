@@ -1,16 +1,5 @@
 # Toy Robot Simulator
 
-Please provide your source code, and any test code/data
-you using in developing your solution.
-
-Please send your submission to us via email as a zip file or
-as a link to the repository hosting your code. (If you choose to keep your
-repository private, contact us about adding us to your repository
-as collaborators.) Do not create a pull request against this repository.
-
-Please engineer your solution to a standard you consider
-suitable for production.
-
 ## Description
 
 * The application is a simulation of a toy robot moving
